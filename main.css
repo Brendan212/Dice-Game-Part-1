@@ -1,1 +1,40 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Potta+One&display=swap');
 
+body{
+    background:
+    linear-gradient(to right, red, yellow);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Potta One', cursive;
+    font-size: 40pt;
+    color: aliceblue;
+    text-align: center;
+}
+
+div{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Potta One', cursive;
+    font-size: 20pt;
+    color: aliceblue;
+    text-align: center;
+}
+
+button{
+    border-style: none;
+    border-radius: 7px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Potta One', cursive;
+    font-size: 20pt;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: transparent;
+    padding: 16px, 25px, 16px, 25px;
+
+}
+
+button:hover{
+  background-color: rgba(245, 245, 245, 0.315)
+}
