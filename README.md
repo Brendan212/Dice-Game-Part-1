@@ -1,1 +1,1 @@
-# Dice-Game-Part-1
+One player dice game
